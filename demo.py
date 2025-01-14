@@ -1,4 +1,4 @@
-#lsit automatically has index value 
+#list automatically has index value 
 card_no="5610591081018250"# its a string not a list so therefore it is difficult to assign the indexes
 odd_sum=0
 even_sum=0
